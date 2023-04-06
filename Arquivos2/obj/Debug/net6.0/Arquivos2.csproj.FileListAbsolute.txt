@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\bin\Debug\net6.0\Arquivos2.exe
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\bin\Debug\net6.0\Arquivos2.deps.json
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\bin\Debug\net6.0\Arquivos2.runtimeconfig.json
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\bin\Debug\net6.0\Arquivos2.dll
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\bin\Debug\net6.0\Arquivos2.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.dll
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\refint\Arquivos2.dll
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\Arquivos2.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\PROJETOS\Arquivos2\Arquivos2\obj\Debug\net6.0\ref\Arquivos2.dll
